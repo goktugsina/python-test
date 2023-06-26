@@ -1,2 +1,2 @@
 # python-test
-my first programming experience
+I was learning to upload a project on github
